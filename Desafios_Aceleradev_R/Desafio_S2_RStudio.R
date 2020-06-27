@@ -1,5 +1,5 @@
 # Desafio da Semana 2 Codenation
-setwd("C:/Users/Andressa/codenation/data-science-0")
+setwd("C:/Users/Andressa/ACELERADEV_CODENATION/Desafios_Aceleradev_CodeNation_DS")
 
 
 #Pacotes
